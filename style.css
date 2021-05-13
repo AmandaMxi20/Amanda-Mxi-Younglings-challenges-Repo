@@ -1,0 +1,161 @@
+
+
+
+.form4 {
+    background-color: #4DB7FE;
+    background-size: cover
+}
+
+.top {
+    padding-top: 100px;
+    padding-bottom: 100px
+}
+
+.form-bg {
+    background: rgba(68, 68, 65, 0.77);
+    padding: 20px
+}
+
+.form {
+    background-color: white;
+    padding: 20px
+}
+.form-group {
+    margin-bottom: 20px
+}
+
+.sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    border: 0
+}
+
+.form-control {
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-bottom: 1px solid #61615e;
+    background: transparent;
+    -webkit-transition: all 0.3s ease 0s;
+    -moz-transition: all 0.3s ease 0s;
+    -o-transition: all 0.3s ease 0s;
+    transition: all 0.3s ease 0s
+}
+
+button.btn {
+    display: block;
+    padding: 11px 32px;
+    -webkit-transition: all 0.3s ease 0s;
+    -moz-transition: all 0.3s ease 0s;
+    -o-transition: all 0.3s ease 0s;
+    transition: all 0.3s ease 0s;
+    margin: 30px 0px
+}
+
+.btn-blue {
+    background-color: #4285f4;
+    color: #fff;
+    border: 1px solid #4285f4
+}
+
+body {
+    background-color: #eee
+}
+
+.wrapper {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+
+.card {
+    padding: 15px;
+    width: 350px;
+    border: none
+}
+
+.dark-button {
+    position: relative
+}
+
+.dot {
+    height: 22px;
+    width: 22px;
+    top: 5px;
+    position: relative;
+    background-color: blue;
+    border-radius: 50%;
+    display: inline-block;
+    cursor: pointer
+}
+.dark-dot {
+    height: 22px;
+    width: 22px;
+    top: 1%;
+    left: 77%;
+    position: absolute;
+    background-color: #585757;
+    border-radius: 50%;
+    display: inline-block;
+    opacity: 0
+}
+
+.dark-button {
+    cursor: pointer
+}
+
+.mode.checked .mode {
+    background-color: red
+}
+
+
+.card-dark {
+    background-color: #585757;
+    color: #fff
+}
+
+.card.card-dark .dark-dot {
+    animation: dark 0.5s ease-in forwards
+}
+
+@keyframes dark {
+    0% {
+        opacity: 0.2;
+        top: 15%;
+        left: 70%
+    }
+50% {
+    opacity: 0.5;
+     top: 13%;
+    left: 75%;
+}
+
+100% {
+    opacity: 1;
+    top: 7%;
+    left: 77%
+}
+}
+.navbar-brand{
+    background-color:#4285f4;
+    width:fit-content;
+    height: fit-content;
+    background-image:url("./rainLogo.jpg");
+
+
+  
+
+}
+
+p{
+    color: #4285f4;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
