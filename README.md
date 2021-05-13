@@ -4,7 +4,7 @@
 
 This contains weekly challenges that I did at Younglings from week one until week 3.
 
-####### WEEK ! CHALLENGE
+####### WEEK 1 CHALLENGE
 These challenges include:
 a. Creating za flowchart that explains how tio play minesweper 
 b. Making a pseudocode and explain how to play sudoku.
@@ -34,11 +34,33 @@ submissions@younglings.africa as a collaborator.
 P.S. After every challenge done. Make sure to add you
 challenge here as a back up.
 
+
+####################### Week5 CHALLENGE:
+
+
+Challenge 1 - Database Design
+Create a database design for a South African school system using database design applications like Microsoft Access or online.
+
+Export it as a screenshot on a .pdf. Absolutely no phone camera screen grabs please
+
+(Bonus: Create a CRUD system for the student information table using SQL).
+
+
+Challenge 2 - Bootstrap
+Design a home page and contact us form page using the bootstrap library for a South African service provider
+
+(Bonus: Connect form to Firebase)
+
+
+###### MANDATORY
+Challenge 3 - Git
+
+Make a Challenges Repository called “Name Surname - Younglings Challenges Repo” for yourself and add submissions@younglings.africa as a collaborator. 
+
+P.S. After every challenge done. Make sure to add you challenge here as a back up.
+
 Back date your previous submissions
-For 1 file; Make sure the naming convention
-is corre
-For links. Make a .txt named after the name
-convention. Put the link in the file
-For multiple files. Make a folder called “CW?
-CH?” and add the multiple files in there
--
+
+For 1 file; Make sure the naming convention is corre
+For links. Make a .txt named after the name convention. Put the link in the file
+For multiple files. Make a folder called “CW? CH?” and add the multiple files in there 
